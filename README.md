@@ -24,7 +24,7 @@ Implement an API rate limiter that restricts the number of API calls from a part
 ### Installation & Setup
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/your_username_/api-rate-limiter.git
+   git clone https://github.com/tarlhahn/api-rate-limiter.git
    ```
 2. **Navigate to the Project Directory**
    ```sh
