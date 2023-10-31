@@ -54,9 +54,7 @@ Administrators can configure the rate limits by modifying the configuration file
 - **TIME_WINDOW**: The time frame (in seconds) in which the REQUEST_LIMIT is applicable.
 
 ## API Endpoints
-- **/api/resource**: Access the resource.
-- **/api/limit**: Get the current rate limit configuration.
-- **/api/usage**: Get the current API usage for the requesting IP address.
+- **/api/data**: Get the data for the requesting IP address.
 
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
